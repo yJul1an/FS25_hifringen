@@ -1,0 +1,67 @@
+Foliage States
+DECOBUSH
+	Foliage State ;  0 , Remove ,  
+DECOFOLIAGE
+	Foliage State ;  0 , Remove ,  
+DECOBUSHUS
+	Foliage State ;  0 , Remove ,  
+MEADOW
+	Foliage State ;  0 , Remove ,  
+FORESTPLANTS
+	Foliage State ;  0 , Remove ,  
+WATERPLANTS
+	Foliage State ;  0 , Remove ,  
+GRASS
+	Foliage State ;  0 , Remove ,  
+WHEAT
+	Foliage State ;  0 , Remove ,  
+CANOLA
+	Foliage State ;  0 , Remove ,  
+BARLEY
+	Foliage State ;  0 , Remove ,  
+MAIZE
+	Foliage State ;  0 , Remove ,  
+POTATO
+	Foliage State ;  0 , Remove ,  
+SUGARBEET
+	Foliage State ;  0 , Remove ,  
+SUNFLOWER
+	Foliage State ;  0 , Remove ,  
+SOYBEAN
+	Foliage State ;  0 , Remove ,  
+OILSEEDRADISH
+	Foliage State ;  0 , Remove ,  
+POPLAR
+	Foliage State ;  0 , Remove ,  
+OAT
+	Foliage State ;  0 , Remove ,  
+SUGARCANE
+	Foliage State ;  0 , Remove ,  
+COTTON
+	Foliage State ;  0 , Remove ,  
+SORGHUM
+	Foliage State ;  0 , Remove ,  
+BEETROOT
+	Foliage State ;  0 , Remove ,  
+CARROT
+	Foliage State ;  0 , Remove ,  
+PARSNIP
+	Foliage State ;  0 , Remove ,  
+GRAPE
+	Foliage State ;  0 , Remove ,  
+OLIVE
+	Foliage State ;  0 , Remove ,  
+RICELONGGRAIN
+	Foliage State ;  0 , Remove ,  
+RICE
+	Foliage State ;  0 , Remove ,  
+GREENBEAN
+	Foliage State ;  0 , Remove ,  
+PEA
+	Foliage State ;  0 , Remove ,  
+SPINACH
+	Foliage State ;  0 , Remove ,  
+WEED
+	Foliage State ;  0 , Remove ,  
+STONE
+	Foliage State ;  0 , Remove ,  

@@ -1,0 +1,57 @@
+{
+    "DEMSettings": {
+        "adjust_terrain_to_ground_level": true,
+        "multiplier": 1,
+        "minimum_height_scale": 255,
+        "plateau": 0,
+        "ceiling": 0,
+        "water_depth": 0,
+        "blur_radius": 20,
+        "add_foundations": false
+    },
+    "BackgroundSettings": {
+        "generate_background": true,
+        "generate_water": true,
+        "resize_factor": 8,
+        "remove_center": true,
+        "apply_decimation": false,
+        "decimation_percent": 25,
+        "decimation_agression": 3
+    },
+    "GRLESettings": {
+        "farmland_margin": 6,
+        "add_farmyards": false,
+        "base_price": 60000,
+        "price_scale": 100,
+        "add_grass": true,
+        "base_grass": "smallDenseMix",
+        "random_plants": true,
+        "plants_island_minimum_size": 10,
+        "plants_island_maximum_size": 200,
+        "plants_island_vertex_count": 30,
+        "plants_island_rounding_radius": 15,
+        "plants_island_percent": 100,
+        "fill_empty_farmlands": true
+    },
+    "I3DSettings": {
+        "add_trees": true,
+        "forest_density": 10,
+        "trees_relative_shift": 20
+    },
+    "TextureSettings": {
+        "dissolve": true,
+        "fields_padding": 6,
+        "skip_drains": false,
+        "use_cache": true,
+        "use_precise_tags": false
+    },
+    "SplineSettings": {
+        "spline_density": 2,
+        "add_reversed_splines": false
+    },
+    "SatelliteSettings": {
+        "download_images": true,
+        "satellite_margin": 0,
+        "zoom_level": 18
+    }
+}

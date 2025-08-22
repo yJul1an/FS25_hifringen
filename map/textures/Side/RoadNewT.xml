@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<!-- 
+    Ensure Texturefiles and Folder Namingconvetions 
+    Name = Foldername,
+    Texturefiles shoud be 
+    name_albedo
+    name_normal
+    name_gloss
+-->
+<Materialpreset version="1.0">
+    <Name>RoadNewT</Name>
+    <Textureresolution>
+        <width>1024</width>
+        <height>2048</height>
+    </Textureresolution>
+    <CustomShader>
+        <Name>
+            <!-- Set ShaderName here -->
+        </Name>
+        <Variation>
+            <!-- Set ShaderVariation here -->
+        </Variation>
+        <Params>
+            <!-- Set ShaderParams here -->
+        </Params>
+    </CustomShader>
+</Materialpreset>

@@ -1,0 +1,112 @@
+{
+    "Texture": {
+        "coordinates": [
+            47.962752,
+            9.772049
+        ],
+        "bbox": [
+            47.981170080470896,
+            47.94433391952911,
+            9.799554535913815,
+            9.744543464086187
+        ],
+        "map_size": 4096,
+        "rotation": 0,
+        "minimum_x": 9.744543464086187,
+        "minimum_y": 47.94433391952911,
+        "maximum_x": 9.799554535913815,
+        "maximum_y": 47.981170080470896
+    },
+    "Background": {
+        "center_latitude": 47.962752,
+        "center_longitude": 9.772049,
+        "epsg3857_string": "1081695.7141830747,1093943.323190762,6094538.707886295,6106786.319813694 [EPSG:3857]",
+        "epsg3857_string_with_margin": "1081195,1094443,6094038,6107286 [EPSG:3857]",
+        "height": 8192,
+        "width": 8192,
+        "north": 47.99958816094179,
+        "south": 47.92591583905821,
+        "east": 9.827060071827628,
+        "west": 9.717037928172374,
+        "DEM": {
+            "original": {
+                "min": 553.0,
+                "max": 756.0,
+                "deviation": 203.0,
+                "dtype": "uint16",
+                "shape": "(6474, 9669)"
+            },
+            "multiplied": {
+                "min": 553.0,
+                "max": 756.0,
+                "deviation": 203.0,
+                "dtype": "uint16",
+                "shape": "(8192, 8192)"
+            },
+            "raised_lowered": {
+                "min": 0.0,
+                "max": 203.0,
+                "deviation": 203.0,
+                "dtype": "uint16",
+                "shape": "(8192, 8192)"
+            },
+            "height_scale": {
+                "height_scale_from_settings": 255,
+                "adjusted_height_scale": 255,
+                "mesh_z_scaling_factor": 257.0,
+                "height_scale_multiplier": 1.0
+            },
+            "normalized": {
+                "min": 0.0,
+                "max": 52171.0,
+                "deviation": 52171.0,
+                "dtype": "uint16",
+                "shape": "(8192, 8192)"
+            }
+        },
+        "Mesh": [
+            {
+                "name": "FULL",
+                "x_size": 8192.0,
+                "y_size": 8192.0,
+                "z_size": 202.0156,
+                "x_center": 1.0114,
+                "y_center": 0.9693,
+                "z_center": -156.5321
+            },
+            {
+                "name": "plane_water",
+                "x_size": 8184.0,
+                "y_size": 8184.0,
+                "z_size": 0.0,
+                "x_center": 3834.6417,
+                "y_center": -4153.2215,
+                "z_center": -0.0
+            },
+            {
+                "name": "elevated_water",
+                "x_size": 8184.0,
+                "y_size": 8184.0,
+                "z_size": 163.9222,
+                "x_center": 3838.0795,
+                "y_center": -4153.3116,
+                "z_center": -128.865
+            }
+        ]
+    },
+    "GRLE": {},
+    "I3d": {},
+    "Config": {
+        "Overview": {
+            "epsg3857_string": "1081695.7141830747,1093943.323190762,6094538.707886295,6106786.319813694 [EPSG:3857]",
+            "epsg3857_string_with_margin": "1081195,1094443,6094038,6107286 [EPSG:3857]",
+            "south": 47.99958816094179,
+            "west": 47.92591583905821,
+            "north": 9.827060071827628,
+            "east": 9.717037928172374,
+            "height": 8192,
+            "width": 8192
+        }
+    },
+    "Satellite": {}
+}

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<prefabDesc descVersion="1">
+    <author>Raabiboy</author>
+    <version>1.0.0.1</version>
+	<title>
+        <en>German Traffic Signs</en>
+	<de>Deutsche Verkehrszeichen</de>
+    </title>
+	<description>
+		<en><![CDATA[This pack contains various german traffic signs that you can use in your map to make it look more beautiful and realistic.
+Additionally it includes two different types of letters and numbers. That allows you to customize the town and village signs individually.
+
+Changelog 1.0.0.1:
+- improved textures
+- added narrow-sized letters and numbers
+- added normal-sized letters and numbers
+- added new traffic signs]]></en>
+		<de><![CDATA[In diesem Pack sind verschiedene deutsche Straßenschilder enthalten, die Sie auf Ihrer Karte verwenden können, um sie schöner und realistischer wirken zu lassen.
+Ebenso sind 2 verschiedene Alphabet- und Ziffernarten enthalten, um sich z.B. die Ortsschilder individuell anpassen zu können.
+
+Changelog 1.0.0.1:
+- überarbeitete Texturen
+- Engschrift Alphabet und Ziffern hinzugefügt
+- Mittelschrift Alphabet und Ziffern hinzugefügt
+- neue Verkehrszeichen hinzugefügt]]></de>
+    </description>
+	<iconFilename>icon.dds</iconFilename>
+	<prefabs>
+		<prefab name="FS25_GermanTrafficSigns_prefab" i3dFilename="germanTrafficSigns.i3d"/>
+	</prefabs>
+</prefabDesc>

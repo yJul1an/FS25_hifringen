@@ -1,0 +1,46 @@
+i3dio.exporter:export_blend_to_i3d:INFO: Blender version is: 3.6.9
+i3dio.exporter:export_blend_to_i3d:INFO: I3D Exporter version is: 4.5.0-dev.1
+i3dio.exporter:export_blend_to_i3d:INFO: Exported using 'element_tree'
+i3dio.exporter:export_blend_to_i3d:INFO: Exporting to C:\Users\julia\Downloads\FS25_47_96275_9_77205_2025-03-15_20-14-19\backround.i3d
+i3dio.exporter:_export_selected_objects:INFO: 'Selected Objects' export is selected'
+i3dio.exporter:_add_object_to_i3d:DEBUG: [tmp3iueejad.stl] is of type 'MESH'
+i3dio.node_classes.node.ShapeNode:_create_xml_element:DEBUG: [tmp3iueejad.stl] Filling out basic attributes, {name='tmp3iueejad.stl', nodeId='1'}
+i3dio.i3d.I3D:add_material:DEBUG: [backround] New Material
+i3dio.node_classes.node.Material:_create_xml_element:DEBUG: [Material.001] Filling out basic attributes, {name='Material.001', nodeId='1'}
+i3dio.utility:as_fs_relative_path:DEBUG: Original filepath: //satellite\satellite_background.png
+i3dio.utility:as_fs_relative_path:DEBUG: Cleaned filepath: C:\Users\julia\Downloads\FS25_47_96275_9_77205_2025-03-15_20-14-19\satellite\satellite_background.png
+i3dio.utility:as_fs_relative_path:DEBUG: FS data path: .
+i3dio.utility:as_fs_relative_path:DEBUG: Fs relative path: $datapng
+i3dio.node_classes.node.Material:_diffuse_from_nodes:DEBUG: [Material.001] Has diffuse texture '$datapng'
+i3dio.i3d.I3D:add_file:DEBUG: [backround] New File
+i3dio.utility:as_fs_relative_path:DEBUG: Original filepath: //satellite\satellite_background.png
+i3dio.utility:as_fs_relative_path:DEBUG: Cleaned filepath: C:\Users\julia\Downloads\FS25_47_96275_9_77205_2025-03-15_20-14-19\satellite\satellite_background.png
+i3dio.utility:as_fs_relative_path:DEBUG: FS data path: .
+i3dio.utility:as_fs_relative_path:DEBUG: Fs relative path: $datapng
+i3dio.node_classes.file.Image:_resolve_filepath:INFO: [satellite_background.png] Resolved filepath: $datapng
+i3dio.node_classes.file.Image:_create_xml_element:DEBUG: [satellite_background.png] Filling out basic attributes, {name='$datapng', nodeId='1'}
+i3dio.node_classes.node.Material:_normal_from_nodes:DEBUG: [Material.001] Has no Normalmap
+i3dio.node_classes.node.Material:_emissive_from_nodes:DEBUG: [Material.001] Write emissiveColor
+i3dio.node_classes.node.Material:_resolve_with_nodes:DEBUG: [Material.001] Has no Glossmap
+i3dio.node_classes.shape.EvaluatedMesh:generate_evaluated_mesh:DEBUG: [tmp3iueejad.stl] is exported with modifiers applied
+i3dio.node_classes.shape.EvaluatedMesh:generate_evaluated_mesh:DEBUG: [tmp3iueejad.stl] applying unit scaling
+i3dio.node_classes.node.IndexedTriangleSet:_create_xml_element:DEBUG: [tmp3iueejad.stl] Filling out basic attributes, {name='tmp3iueejad.stl', nodeId='1'}
+i3dio.node_classes.node.IndexedTriangleSet:process_subsets:DEBUG: [tmp3iueejad.stl] Subset with index 0
+i3dio.node_classes.node.IndexedTriangleSet:process_subset:DEBUG: [tmp3iueejad.stl] Processing subset: numTriangles="1572872" firstIndex="0" firstVertex="0" numIndices="0" numVertices="0"
+i3dio.node_classes.node.IndexedTriangleSet:process_subset:DEBUG: [tmp3iueejad.stl] Subset 0 with '1572872' triangles and numTriangles="1572872" firstIndex="0" firstVertex="0" numIndices="4718616" numVertices="4076090"
+i3dio.node_classes.node.IndexedTriangleSet:populate_xml_element:DEBUG: [tmp3iueejad.stl] Has '1' subsets, '1572872' triangles and '4076090' vertices
+i3dio.node_classes.node.ShapeNode:populate_xml_element:DEBUG: [tmp3iueejad.stl] has shape ID '1'
+i3dio.xml_i3d:write_i3d_properties:INFO: Writing non-default properties from propertygroup: 'I3DNodeObjectAttributes'
+i3dio.xml_i3d:write_i3d_properties:INFO: Wrote '0' properties
+i3dio.xml_i3d:write_i3d_properties:INFO: Writing non-default properties from propertygroup: 'I3DNodeShapeAttributes'
+i3dio.xml_i3d:write_i3d_properties:INFO: Wrote '0' properties
+i3dio.node_classes.node.ShapeNode:_add_transform_to_xml_element:DEBUG: [tmp3iueejad.stl] transforming to new transform-basis with <Matrix 4x4 (1.0000, 0.0000, 0.0000, 0.0000)
+            (0.0000, 1.0000, 0.0000, 0.0000)
+            (0.0000, 0.0000, 1.0000, 0.0000)
+            (0.0000, 0.0000, 0.0000, 1.0000)>
+i3dio.node_classes.node.ShapeNode:_add_transform_to_xml_element:DEBUG: [tmp3iueejad.stl] translation is <Vector (0.0000, 0.0000, 0.0000)>
+i3dio.node_classes.node.ShapeNode:_add_transform_to_xml_element:DEBUG: [tmp3iueejad.stl] translation is default
+i3dio.node_classes.node.ShapeNode:__init__:DEBUG: [tmp3iueejad.stl] New Name: tmp3iueejad.stl
+i3dio.node_classes.node.ShapeNode:__init__:DEBUG: [tmp3iueejad.stl] Initialized as a 'ShapeNode'
+i3dio.exporter:_add_object_to_i3d:DEBUG: [tmp3iueejad.stl] processing objects children
+i3dio.exporter:_add_object_to_i3d:DEBUG: [tmp3iueejad.stl] no more children to process in object

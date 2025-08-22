@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<!-- 
+    Observe naming conventions for folder and filenames
+    Name = Foldername,
+    Texturefiles shoud be named:
+    name_albedo.dds
+    name_normal.dds
+    name_gloss.dds
+-->
+<Materialpreset version="1.0" type="Road">
+    <Name>Road_Residential</Name>
+	<MultiLines>true</MultiLines>
+    <Textureresolution>
+        <width>2048</width>
+        <height>2048</height>
+    </Textureresolution>
+    <CustomShader>
+        <Name>
+            <!-- Set ShaderName here -->
+        </Name>
+        <Variation>
+            <!-- Set ShaderVariation here -->
+        </Variation>
+        <Params>
+            <!-- Set ShaderParams here -->
+        </Params>
+    </CustomShader>
+</Materialpreset>

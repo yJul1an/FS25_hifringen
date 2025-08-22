@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<prefabDesc descVersion="1">
+    <author>tirolerHeimahd modding</author>
+    <version>1.0.0.1</version>
+	<title>
+        <en>Tyrolean Chapel</en>
+		<de>Tiroler Kapelle</de>
+    </title>
+
+	<description>
+	<en><![CDATA[
+This is a traditional chapel from the tryrolean alps.
+
+Changelog 1.0.0.1:
+Snow texture fixed
+]]>
+	</en>
+	<de><![CDATA[
+Dies ist eine traditionelle Kapelle, wie man Sie in den Tiroler Alpen vorfindet.
+
+Changelog 1.0.0.1:
+Snow Texture korrigiert
+]]>
+	</de>
+	</description>
+	
+	<categories>
+        <category>others</category>
+    </categories>
+	
+	<prefabs>
+		<prefab name="Tyrolean Chapel" i3dFilename="tyroleanChapel.i3d" />
+    </prefabs>
+	
+	<iconFilename>icon_tyroleanChapel.dds</iconFilename>
+</prefabDesc>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<prefabDesc descVersion="1">
+    <author>[BG] Lahmi</author>
+    <version>1.0.0.0</version>
+	<title>
+        <en>Power Pole Prefab</en>
+        <de>Strommast Prefab</de>
+        <fr>Poteau Electrique Prefab</fr>
+    </title>
+    <description>
+        <en><![CDATA[A configurable power pole as a decorative object for the map. 
+The height of the pole is 33m and the distance is 250m.
+A snow cover has been added for the concrete base.
+It is possible to rotate the cables of the pole by 90°.]]></en>
+        <de><![CDATA[Ein Konfigurierbarer Strommast als Deko-Objekt für die Map. 
+Die Höhe des Masten beträgt 33m und der Abstand 250m.
+Eine Schneeplane wurde für den Betonsockel hinzugefügt.
+Für den Mast besteht die Möglichkeit die Kabel um 90° zu drehen.]]></de>
+        <fr><![CDATA[Un poteau électrique configurable comme objet de décoration pour la map. 
+La hauteur du poteau est de 33m et la distance de 250m.
+Une bâche à neige a été ajoutée pour le socle en béton.
+Pour le pylône, il est possible de faire pivoter les câbles de 90°.]]></fr>
+    </description>
+    <iconFilename>icon_prefab.dds</iconFilename>
+    <categories>
+		<category>Building</category>
+		<category>Other</category>
+	</categories>
+
+	<prefabs>
+		<prefab name="Power pole" i3dFilename="powerPole.i3d" />
+		<prefab name="Power pole 90°" i3dFilename="powerPole90.i3d" />
+		<prefab name="Power pole old" i3dFilename="powerPole_old.i3d" />
+		<prefab name="Power pole old 90°" i3dFilename="powerPole90_Old.i3d" />
+	</prefabs>
+	
+</prefabDesc>

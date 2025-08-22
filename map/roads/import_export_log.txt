@@ -1,0 +1,48 @@
+i3dio.exporter:export_blend_to_i3d:INFO: Blender version is: 3.6.9
+i3dio.exporter:export_blend_to_i3d:INFO: I3D Exporter version is: 4.5.0-dev.1
+i3dio.exporter:export_blend_to_i3d:INFO: Exported using 'element_tree'
+i3dio.exporter:export_blend_to_i3d:INFO: Exporting to C:\Users\julia\Documents\My Games\FarmingSimulator2025\mods_hifi\FS25_hifringen\map\roads\import.i3d
+i3dio.exporter:_export_selected_objects:INFO: 'Selected Objects' export is selected'
+i3dio.exporter:_add_object_to_i3d:DEBUG: [Fahhradweg] is of type 'MESH'
+i3dio.node_classes.node.ShapeNode:_create_xml_element:DEBUG: [Fahhradweg] Filling out basic attributes, {name='Fahhradweg', nodeId='1'}
+i3dio.i3d.I3D:add_material:DEBUG: [import] New Material
+i3dio.node_classes.node.Material:_create_xml_element:DEBUG: [Sideroad] Filling out basic attributes, {name='Sideroad', nodeId='1'}
+i3dio.utility:as_fs_relative_path:DEBUG: Original filepath: //..\My Games\FarmingSimulator2025\mods\FS25_hifringen\map\textures\sideRoads_diffuse.png
+i3dio.utility:as_fs_relative_path:DEBUG: Cleaned filepath: C:\Users\julia\Documents\My Games\FarmingSimulator2025\mods\FS25_hifringen\map\textures\sideRoads_diffuse.png
+i3dio.utility:as_fs_relative_path:DEBUG: FS data path: E:\steam\steamapps\common\Farming Simulator 25\data
+i3dio.node_classes.node.Material:_diffuse_from_nodes:DEBUG: [Sideroad] Has diffuse texture 'C:\Users\julia\Documents\My Games\FarmingSimulator2025\mods\FS25_hifringen\map\textures\sideRoads_diffuse.png'
+i3dio.i3d.I3D:add_file:DEBUG: [import] New File
+i3dio.utility:as_fs_relative_path:DEBUG: Original filepath: //..\My Games\FarmingSimulator2025\mods\FS25_hifringen\map\textures\sideRoads_diffuse.png
+i3dio.utility:as_fs_relative_path:DEBUG: Cleaned filepath: C:\Users\julia\Documents\My Games\FarmingSimulator2025\mods\FS25_hifringen\map\textures\sideRoads_diffuse.png
+i3dio.utility:as_fs_relative_path:DEBUG: FS data path: E:\steam\steamapps\common\Farming Simulator 25\data
+i3dio.node_classes.file.Image:_copy_file:INFO: [sideRoads_diffuse.png] is not an FS builtin and will be copied
+i3dio.node_classes.file.Image:_copy_file:DEBUG: [sideRoads_diffuse.png] will be copied using the 'MODHUB' hierarchy structure
+i3dio.node_classes.file.Image:_copy_file:INFO: [sideRoads_diffuse.png] copied to 'C:\Users\julia\Documents\My Games\FarmingSimulator2025\mods_hifi\FS25_hifringen\map\roads\textures\sideRoads_diffuse.png'
+i3dio.node_classes.file.Image:_resolve_filepath:INFO: [sideRoads_diffuse.png] Resolved filepath: textures\sideRoads_diffuse.png
+i3dio.node_classes.file.Image:_create_xml_element:DEBUG: [sideRoads_diffuse.png] Filling out basic attributes, {name='textures/sideRoads_diffuse.png', nodeId='1'}
+i3dio.node_classes.node.Material:_normal_from_nodes:DEBUG: [Sideroad] Has no Normalmap
+i3dio.node_classes.node.Material:_resolve_with_nodes:DEBUG: [Sideroad] Has no Glossmap
+i3dio.node_classes.shape.EvaluatedMesh:generate_evaluated_mesh:DEBUG: [Plane.015] is exported with modifiers applied
+i3dio.node_classes.shape.EvaluatedMesh:generate_evaluated_mesh:DEBUG: [Plane.015] applying unit scaling
+i3dio.node_classes.node.IndexedTriangleSet:_create_xml_element:DEBUG: [Plane.015] Filling out basic attributes, {name='Plane.015', nodeId='1'}
+i3dio.node_classes.node.IndexedTriangleSet:process_subsets:DEBUG: [Plane.015] Subset with index 0
+i3dio.node_classes.node.IndexedTriangleSet:process_subset:DEBUG: [Plane.015] Processing subset: numTriangles="192" firstIndex="0" firstVertex="0" numIndices="0" numVertices="0"
+i3dio.node_classes.node.IndexedTriangleSet:process_subset:DEBUG: [Plane.015] Subset 0 with '192' triangles and numTriangles="192" firstIndex="0" firstVertex="0" numIndices="576" numVertices="370"
+i3dio.node_classes.node.IndexedTriangleSet:populate_xml_element:DEBUG: [Plane.015] Has '1' subsets, '192' triangles and '370' vertices
+i3dio.node_classes.node.ShapeNode:populate_xml_element:DEBUG: [Fahhradweg] has shape ID '1'
+i3dio.xml_i3d:write_i3d_properties:INFO: Writing non-default properties from propertygroup: 'I3DNodeObjectAttributes'
+i3dio.xml_i3d:write_i3d_properties:DEBUG: Property 'rendered_in_viewports' with value 'False'. Default is 'True'
+i3dio.xml_i3d:write_i3d_properties:INFO: Wrote '1' properties
+i3dio.xml_i3d:write_i3d_properties:INFO: Writing non-default properties from propertygroup: 'I3DNodeShapeAttributes'
+i3dio.xml_i3d:write_i3d_properties:DEBUG: Property 'receive_shadows' with value 'True'. Default is 'False'
+i3dio.xml_i3d:write_i3d_properties:INFO: Wrote '1' properties
+i3dio.node_classes.node.ShapeNode:_add_transform_to_xml_element:DEBUG: [Fahhradweg] transforming to new transform-basis with <Matrix 4x4 (1.0000, 0.0000, 0.0000, 0.0000)
+            (0.0000, 1.0000, 0.0000, 0.0000)
+            (0.0000, 0.0000, 1.0000, 0.0000)
+            (0.0000, 0.0000, 0.0000, 1.0000)>
+i3dio.node_classes.node.ShapeNode:_add_transform_to_xml_element:DEBUG: [Fahhradweg] translation is <Vector (0.0000, 0.0000, 0.0000)>
+i3dio.node_classes.node.ShapeNode:_add_transform_to_xml_element:DEBUG: [Fahhradweg] translation is default
+i3dio.node_classes.node.ShapeNode:__init__:DEBUG: [Fahhradweg] New Name: Fahhradweg
+i3dio.node_classes.node.ShapeNode:__init__:DEBUG: [Fahhradweg] Initialized as a 'ShapeNode'
+i3dio.exporter:_add_object_to_i3d:DEBUG: [Fahhradweg] processing objects children
+i3dio.exporter:_add_object_to_i3d:DEBUG: [Fahhradweg] no more children to process in object

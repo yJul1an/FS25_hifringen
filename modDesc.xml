@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<modDesc descVersion="92" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://validation.gdn.giants-software.com/xml/fs25/modDesc.xsd">
+    <author>GIANTS Software</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Hifringen</en>
+    </title>
+
+    <description>
+<en><![CDATA[
+Category: Maps
+]]></en>
+<de><![CDATA[
+Shopkategorie: Maps
+]]></de>
+    </description>
+
+            <iconFilename>preview.png</iconFilename>
+
+    <multiplayer supported="true"/>
+    <maps>
+        <map id="MAPS4S" configFilename="map/map.xml" defaultVehiclesXMLFilename="map/config/vehicles.xml" defaultPlaceablesXMLFilename="map/config/placeables.xml" defaultHandToolsXMLFilename="map/config/handTools.xml" defaultItemsXMLFilename="map/config/items.xml">
+            <title>
+                <en>Hifringen</en>
+            </title>
+            <description>
+                <en>A realistic map from Germany</en>
+            </description>
+            <iconFilename>preview.png</iconFilename>
+        </map>
+    </maps>
+	
+	
+	<dependencies>
+		<dependency>FS25_AddableTriggers</dependency>
+		<dependency>FS25_BunkerSiloModularSet</dependency>
+		<dependency>FS25_ConcreteFreeLandSilo_Pack</dependency>
+		<dependency>FS25_FloorWeightStation</dependency>
+		<dependency>FS25_Gravel_Mound_Silo</dependency>
+		<dependency>FS25_MA_hedgePlaceable</dependency>
+		<dependency>FS25_MA_largeStorageHalls</dependency>
+		<dependency>FS25_MA_shedStoragePack</dependency>
+		<dependency>FS25_ManureHeapPackage</dependency>
+		<dependency>FS25_MeadowFence_placeables</dependency>
+		<dependency>FS25_ObjectBaleStorage</dependency>
+		<dependency>FS25_Parking_Barrier</dependency>
+		<dependency>FS25_PlanET_BGA_Modular</dependency>
+		<dependency>FS25_WoodenShedPack</dependency>
+		<dependency>FS25_bavarianFarmHouseWithHall</dependency>
+		<dependency>FS25_cowShedsPack2</dependency>
+		<dependency>FS25_largeCowshed3_3</dependency>
+		<dependency>FS25_modernHouseSet</dependency>
+		<dependency>FS25_oldBullshed</dependency>
+	</dependencies>
+
+    <!--storeItems>
+        <storeItem xmlFilename="dc401.xml"/>
+    </storeItems-->
+</modDesc>
